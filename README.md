@@ -5,7 +5,7 @@ Ejemplos de código de Erlang para la presentación
 
 <title>Codigos de Erlang </title>
 
-<h2>Como ejecutar <h2>
+<h2>Como ejecutar </h2>
 <ol>
     <li>Intala erlang en tu computadora desde el sitio oficial </li>
     <li>Descargar el archivo a ejecutar en tu computadora </li>
