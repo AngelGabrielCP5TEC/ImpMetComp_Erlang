@@ -1,10 +1,6 @@
 # ImpMetComp_Erlang
 Ejemplos de código de Erlang para la presentación
 
-<br>
-
-<title>Codigos de Erlang </title>
-
 <h2>Como ejecutar </h2>
 <ol>
     <li>Intala erlang en tu computadora desde el sitio oficial </li>
